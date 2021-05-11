@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![tomheaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomheaton?private=true)](https://github.com/tomheaton)
+[![tomheaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomheaton&private=true)](https://github.com/tomheaton)
 
 
 <!--
