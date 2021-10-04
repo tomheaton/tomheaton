@@ -1,4 +1,4 @@
-### Hey there, I'm Tom 👋
+### 👋 Hey there, I'm Tom
 
 Developer and student from the United Kingdom
 
