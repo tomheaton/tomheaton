@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there, I'm Tom 👋
 
 [![tomheaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomheaton&show_icons=true&count_private=true&bg_color=0d1117&text_color=f0f6fc)](https://github.com/tomheaton)
 
