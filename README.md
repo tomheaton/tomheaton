@@ -3,7 +3,7 @@
 Developer and student from the United Kingdom
 
 - 🧪 Interested in backend software development
-- 🚀 Currently working on [Infinite Cards](https://gihub.com/tomheaton/infinitecards), check it out!
+- 🚀 Currently working on [Infinite Cards](https://github.com/tomheaton/infinitecards), check it out!
 
 ---
 
