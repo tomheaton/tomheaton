@@ -3,7 +3,7 @@
 Software developer and student from the United Kingdom
 
 - 🧪 Interested in backend software development
-- 🤖 Just finished [QR Calendar](https://github.com/tomheaton/qr-calendar), check it out!
+- 🤖 Just finished [QR Calendar](https://github.com/tomheaton/qr-calendar), see it live!
 - 🚀 Currently working on [Infinite Cards](https://github.com/tomheaton/infinitecards), check it out!
 
 ---
