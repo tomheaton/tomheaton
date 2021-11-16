@@ -12,5 +12,11 @@ Software developer and student from the United Kingdom
 
 [![tomheaton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomheaton&layout=compact&bg_color=0d1117&text_color=f0f6fc)](https://github.com/tomheaton)
 
+<!-- <p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomheaton&show_icons=true&count_private=true&bg_color=0d1117&text_color=f0f6fc" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomheaton&layout=compact&bg_color=0d1117&text_color=f0f6fc" width="40%" />
+</p> -->
+
+---
 
 #### Check out my pinned projects! ⤵️
