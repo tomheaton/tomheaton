@@ -6,6 +6,8 @@ Software developer and student from the United Kingdom
 - 🤖 Just finished [QR Calendar](https://github.com/tomheaton/qr-calendar), see it live!
 - 🚀 Currently working on [Infinite Cards](https://github.com/tomheaton/infinitecards), check it out!
 
+<!-- [![tomheaton's View count](https://komarev.com/ghpvc/?username=tomheaton&style=flat-square)](https://github.com/tomheaton) -->
+
 ---
 
 [![tomheaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomheaton&show_icons=true&count_private=true&theme=github_dark)](https://github.com/tomheaton)
