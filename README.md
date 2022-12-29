@@ -21,7 +21,7 @@ Software developer and student from the United Kingdom
 
 ---
 
-[![@tomheaton's Holopin board](https://holopin.me/tomheaton)](https://holopin.io/@tomheaton)
+<!-- [![@tomheaton's Holopin board](https://holopin.me/tomheaton)](https://holopin.io/@tomheaton) -->
 
 ---
 
