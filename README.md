@@ -1,8 +1,8 @@
-<!--### 👋 Hey there, I'm Tom -->
+<!-- ### 👋 Hey there, I'm Tom -->
 
 ![tomheaton](https://github.com/tomheaton/tomheaton/assets/50220137/07e077c7-7e46-478b-a327-1292c392aeef)
 
-<!--Software developer and student from the United Kingdom -->
+<!-- Software developer and student from the United Kingdom -->
 
 <!-- [![tomheaton's View count](https://komarev.com/ghpvc/?username=tomheaton&style=flat-square)](https://github.com/tomheaton) -->
 
@@ -23,6 +23,6 @@
 
 <!-- --- -->
 
-<!--#### Check out my pinned projects! ⤵️ -->
+<!-- #### Check out my pinned projects! ⤵️ -->
 
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/tomheaton&bgLeft=262536&bgRight=3D907B&label=Visits)](https://hits-app.vercel.app/)
+<!-- [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/tomheaton&bgLeft=262536&bgRight=3D907B&label=Visits)](https://hits-app.vercel.app/) -->
